@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-   <img src="/Lista.png" alt="Lista de Tarefas"/>
+   <img src="/ListaTarefas.png" alt="Lista de Tarefas"/>
 </p>
 
 <p align="center">
